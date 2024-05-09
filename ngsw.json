@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1715236300354,
+  "timestamp": 1715236649875,
   "index": "/Resonance/index.html",
   "assetGroups": [
     {
@@ -93,7 +93,7 @@
     "/Resonance/chunk-L5O2XTVI.js": "4f457ae83ea3758d17235282a6c098b47653a0ea",
     "/Resonance/chunk-SCN5P6G5.js": "109c0da1c89a5924106d2d912d11648983a41447",
     "/Resonance/favicon.ico": "f52e451563527b96001a4318d1aad5de34f5cba1",
-    "/Resonance/index.html": "13bbe69e271ebe2a4cfed9ee7f4cb598ce9ec8b3",
+    "/Resonance/index.html": "8ff11fe094e8639bd9cbc0437ab5877b6ed457a4",
     "/Resonance/main-D3FESZCK.js": "22787e055d5e883914294a31c34b1c4cd301137b",
     "/Resonance/manifest.webmanifest": "22526b985ac612b8fd94ad650fe3977f40907fd2",
     "/Resonance/polyfills-S3BTP7ME.js": "893d641030c187f109c667de1b0a73a03095fa3b",
