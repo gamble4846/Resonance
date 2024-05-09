@@ -1,0 +1,121 @@
+{
+  "configVersion": 1,
+  "timestamp": 1715236300354,
+  "index": "/Resonance/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Resonance/chunk-6AAOAHWD.js",
+        "/Resonance/chunk-BJDBXQXX.js",
+        "/Resonance/chunk-FUOX2NTK.js",
+        "/Resonance/chunk-H7PG5FXE.js",
+        "/Resonance/chunk-IP7LLMLA.js",
+        "/Resonance/chunk-L5O2XTVI.js",
+        "/Resonance/chunk-SCN5P6G5.js",
+        "/Resonance/favicon.ico",
+        "/Resonance/index.html",
+        "/Resonance/main-D3FESZCK.js",
+        "/Resonance/manifest.webmanifest",
+        "/Resonance/polyfills-S3BTP7ME.js",
+        "/Resonance/styles-QJWTO5KS.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Resonance/assets/Files/Lewis capaldi - Before You Go (Lyrics).mp3",
+        "/Resonance/assets/icons/icon-114x114.png",
+        "/Resonance/assets/icons/icon-120x120.png",
+        "/Resonance/assets/icons/icon-128x128.png",
+        "/Resonance/assets/icons/icon-144x144.png",
+        "/Resonance/assets/icons/icon-150x150.png",
+        "/Resonance/assets/icons/icon-152x152.png",
+        "/Resonance/assets/icons/icon-16x16.png",
+        "/Resonance/assets/icons/icon-180x180.png",
+        "/Resonance/assets/icons/icon-192x192.png",
+        "/Resonance/assets/icons/icon-196x196.png",
+        "/Resonance/assets/icons/icon-24x24.png",
+        "/Resonance/assets/icons/icon-310x310.png",
+        "/Resonance/assets/icons/icon-32x32.png",
+        "/Resonance/assets/icons/icon-48x48.png",
+        "/Resonance/assets/icons/icon-57x57.png",
+        "/Resonance/assets/icons/icon-60x60.png",
+        "/Resonance/assets/icons/icon-64x64.png",
+        "/Resonance/assets/icons/icon-70x70.png",
+        "/Resonance/assets/icons/icon-72x72.png",
+        "/Resonance/assets/icons/icon-76x76.png",
+        "/Resonance/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Resonance/assets/Files/Lewis capaldi - Before You Go (Lyrics).mp3": "bda092b498c334d6a9c020206899a7e6a294caa0",
+    "/Resonance/assets/icons/icon-114x114.png": "15f85a391d212f666269140345f211cc856f73b6",
+    "/Resonance/assets/icons/icon-120x120.png": "31da8b379b17ad871a5678a196bc802ebe0867dd",
+    "/Resonance/assets/icons/icon-128x128.png": "6df947a95545bf13ee4829f2dd0e27e43e3052af",
+    "/Resonance/assets/icons/icon-144x144.png": "45ea60cc5fcc9ab681c6a44473c59f6defd480e2",
+    "/Resonance/assets/icons/icon-150x150.png": "adaf1dfdfb8b05b801c6b1c54fe8d9e169fd84fd",
+    "/Resonance/assets/icons/icon-152x152.png": "6478def4bdc84a4221af2eb2aef214c6c313e2b7",
+    "/Resonance/assets/icons/icon-16x16.png": "3b30cddecd22d814656611fc00117074b951e42f",
+    "/Resonance/assets/icons/icon-180x180.png": "c5c22fb725e062af9ec0fa66d98abbd24d560c4c",
+    "/Resonance/assets/icons/icon-192x192.png": "1b7b47746d7c5d7718a81873c128006bf68c7609",
+    "/Resonance/assets/icons/icon-196x196.png": "b2bd3ed8cecb55312a24e02845e9606e5a28225d",
+    "/Resonance/assets/icons/icon-24x24.png": "28a7d4a33625ded2c1089557776c22846a6003b1",
+    "/Resonance/assets/icons/icon-310x310.png": "19ee8c5956c14c21ad1064f145bb455073bd0d93",
+    "/Resonance/assets/icons/icon-32x32.png": "bfc6d82b23a29ffe418910c2e9232956a03c2071",
+    "/Resonance/assets/icons/icon-48x48.png": "cc3fa2a39837e89d9dd95f42a4da67c06212b9c5",
+    "/Resonance/assets/icons/icon-57x57.png": "a16ce6ab4fff409c206c60c96cc2f855037696d2",
+    "/Resonance/assets/icons/icon-60x60.png": "07dcd7209870b74bb304f46f95f25e020d84e17f",
+    "/Resonance/assets/icons/icon-64x64.png": "7370322a55a38bbdf512b438ef6d4a919846204d",
+    "/Resonance/assets/icons/icon-70x70.png": "821ef234bb8db379018d59d0e355e339e46e544a",
+    "/Resonance/assets/icons/icon-72x72.png": "8ded3dad5025ef2ad2c213056010d53d757d30f9",
+    "/Resonance/assets/icons/icon-76x76.png": "df2f8da9834aafbb5b72af47efead54e749a6ffc",
+    "/Resonance/assets/icons/icon-96x96.png": "bf081f4523de707b8e7cdc91451778b609a26eb9",
+    "/Resonance/chunk-6AAOAHWD.js": "614e08045ff954e21dafa256ff853febf8cf5857",
+    "/Resonance/chunk-BJDBXQXX.js": "cd0e77e85b0acfa1203307949fba2f9435d9b5d4",
+    "/Resonance/chunk-FUOX2NTK.js": "b38ef129f6aed70cd32b42c44d5da4872d4f0c6a",
+    "/Resonance/chunk-H7PG5FXE.js": "35c9379a6d2426b467f4828895b31072a580fc71",
+    "/Resonance/chunk-IP7LLMLA.js": "c811cc5d14285d7bedccfb8f7a3b877b3e08f524",
+    "/Resonance/chunk-L5O2XTVI.js": "4f457ae83ea3758d17235282a6c098b47653a0ea",
+    "/Resonance/chunk-SCN5P6G5.js": "109c0da1c89a5924106d2d912d11648983a41447",
+    "/Resonance/favicon.ico": "f52e451563527b96001a4318d1aad5de34f5cba1",
+    "/Resonance/index.html": "13bbe69e271ebe2a4cfed9ee7f4cb598ce9ec8b3",
+    "/Resonance/main-D3FESZCK.js": "22787e055d5e883914294a31c34b1c4cd301137b",
+    "/Resonance/manifest.webmanifest": "22526b985ac612b8fd94ad650fe3977f40907fd2",
+    "/Resonance/polyfills-S3BTP7ME.js": "893d641030c187f109c667de1b0a73a03095fa3b",
+    "/Resonance/styles-QJWTO5KS.css": "76092239b2a9001552f54b5539a138623636cf6c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
